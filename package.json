@@ -1,0 +1,25 @@
+{
+  "name": "react-quickly-demo",
+  "version": "1.0.0",
+  "description": "React Quickly book source code and projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azat-co/react-quickly-demo.git"
+  },
+  "author": "Azat Mardan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azat-co/react-quickly-demo/issues"
+  },
+  "homepage": "https://github.com/azat-co/react-quickly-demo#readme",
+  "dependencies": {
+    "express": "4.14.0",
+    "react-quickly": "git+https://github.com/azat-co/react-quickly.git",
+    "serve-index": "^1.8.0"
+  }
+}
